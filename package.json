@@ -1,6 +1,6 @@
 {
-  "homepage": "http://nguyentrav.github.io/dad-joke-app",
-  "name": "dad-joke-app",
+  "homepage": "http://nguyentrav.github.io/dad-jokes",
+  "name": "dad-jokes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

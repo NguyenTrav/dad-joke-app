@@ -1,4 +1,4 @@
-# Dad Joke App
+# Dad Joke App (beta)
 
 React project inspired by the site reddit.com where users can vote on dad jokes.
 

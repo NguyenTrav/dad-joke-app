@@ -7,7 +7,7 @@ React project inspired by the site reddit.com where users can vote on dad jokes.
 Installation
 ------------
 
-Install lights-out by running:
+Install dad-joke-app by running:
 
     git clone git@github.com:NguyenTrav/dad-joke-app.git
     
